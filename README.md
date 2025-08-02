@@ -7,9 +7,8 @@
 [![Badge](https://img.shields.io/github/stars/tthn0/Spotify-Readme?style=for-the-badge)](https://github.com/tthn0/Spotify-Readme/stargazers)
 
 <a href="https://anuragxo.pythonanywhere.com/link">
-  <img src="https://yourusername.anuragxo.com" alt="Current Spotify Song" />
+  <img src="https://anuragxo.pythonanywhere.com?spin=true&theme=dark" alt="Currently Playing on Spotify" />
 </a>
-
 </div>
 
 <p align="center">
