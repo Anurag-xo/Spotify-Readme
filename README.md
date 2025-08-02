@@ -11,6 +11,14 @@
 </a>
 </div>
 
+
+<a href="https://anuragxo.pythonanywhere.com/link">
+  <img 
+    src="https://anuragxo.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark" 
+    alt="Currently Playing on Spotify" 
+  />
+</a>
+
 <p align="center">
   A dynamic, customizable, and real-time Spotify now-playing widget for your markdown files that syncs with the song you’re currently playing. If you're not currently playing a song, it'll display one of your recent songs! Feel free to ask for help or make any pull requests, issues, or suggestions 😄
 </p>
